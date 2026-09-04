@@ -86,6 +86,4 @@
 
 ## Latest on Velog
 
-<!-- VELOG-POST-LIST:START -->
-- [ONLYOFFICE 연동 4편: SDK, MinIO, Saga](https://velog.io/@taez224/ONLYOFFICE-%EC%97%B0%EB%8F%99-4%ED%8E%B8-SDK-MinIO-Saga)
-<!-- VELOG-POST-LIST:END -->
+<!-- VELOG-POST-LIST:START -->- [ONLYOFFICE 연동 4편: SDK, MinIO, Saga](https://velog.io/@taez224/ONLYOFFICE-%EC%97%B0%EB%8F%99-4%ED%8E%B8-SDK-MinIO-Saga)- [ONLYOFFICE 연동 3편: key와 메타데이터 관리](https://velog.io/@taez224/ONLYOFFICE-%EC%97%B0%EB%8F%99-%EA%B5%AC%EC%B6%95%EA%B8%B0-3%ED%8E%B8)- [Antigravity와 함께한 ONLYOFFICE 연동 Vibe Coding기 &lpar;Part 2: 구현편&rpar;](https://velog.io/@taez224/ONLYOFFICE-Vibe-Coding%EA%B8%B0-Part-2-%EA%B5%AC%ED%98%84%ED%8E%B8)<!-- VELOG-POST-LIST:END -->
