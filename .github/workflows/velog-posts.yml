@@ -1,0 +1,23 @@
+name: Update Velog posts
+
+on:
+  schedule:
+    - cron: "17 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Update Velog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://v2.velog.io/rss/taez224"
+          max_post_count: 3
+          comment_tag_name: "VELOG-POST-LIST"
+          template: "- [$title]($url)"
