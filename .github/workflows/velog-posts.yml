@@ -20,4 +20,4 @@ jobs:
           feed_list: "https://v2.velog.io/rss/taez224"
           max_post_count: 3
           comment_tag_name: "VELOG-POST-LIST"
-          template: "- [$title]($url)"
+          template: "- [$title]($url)$newline"
