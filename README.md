@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Backend / Platform Engineer</h2>
-  <p>만들어서 이해하고, 기록해서 다시 연결합니다.<br />개발하며 생긴 질문을 작은 실험과 글로 확인하고,<br />그 배움을 개인 지식 정원에 남깁니다.</p>
+  <p>만들어서 이해하고, 기록해서 다시 연결합니다.<br />개발하며 생긴 질문을 작은 실험과 글로 확인하고,<br />배운 것을 노트와 글로 남겨 다시 꺼내 씁니다.</p>
   <p>
     <a href="https://www.linkedin.com/in/taez" aria-label="LinkedIn">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24" />
@@ -19,7 +19,7 @@
 
 ## Start here
 
-코드: [ONLYOFFICE 문서 편집 통합 데모](https://github.com/taez224/onlyoffice-demo) · 지식관리: [Obsidian 지식 정원](https://github.com/taez224/obsidian) · 글: [Brunch](https://brunch.co.kr/@taez) · [Velog](https://velog.io/@taez224)
+코드: [ONLYOFFICE 문서 편집 통합 데모](https://github.com/taez224/onlyoffice-demo) · 공개 노트: [TaeZ 공개 노트](https://taez224.github.io/obsidian/) · [소스 저장소](https://github.com/taez224/obsidian) · 글: [Brunch](https://brunch.co.kr/@taez) · [Velog](https://velog.io/@taez224)
 
 ## Public work
 
@@ -34,13 +34,13 @@
 
 자세한 구조와 실행 방법은 [프로젝트 README](https://github.com/taez224/onlyoffice-demo#readme)에서 확인할 수 있습니다.
 
-### [Obsidian 지식 정원](https://github.com/taez224/obsidian)
+### [TaeZ 공개 노트](https://taez224.github.io/obsidian/) · [소스 저장소](https://github.com/taez224/obsidian)
 
-개인 기록과 소프트웨어 개발, AI 활용에서 얻은 생각을 연결하고 직접 관리하는 개인 지식 워크플로입니다.
+개발하며 남긴 기록과 글, 독서 노트를 직접 관리하고 다시 찾아볼 수 있게 연결한 공개 공간입니다.
 
-- 개발 기록과 재사용 가능한 문제 해결 내용을 축적
-- 프로젝트·기술 글·개인 생각을 서로 연결
-- 자료의 출처와 작성자의 해석을 나누어 기록
+- Slipbox 노트와 연결 그래프로 생각의 흐름을 탐색
+- 발행된 글·연재, 개발 기록, 독서 기록을 주제별로 공개
+- 원문과 개인의 해석을 구분해 기록
 
 ## Core stack
 
