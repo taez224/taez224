@@ -28,6 +28,17 @@
 
 문서 편집기를 붙인 뒤에도 문서 식별, 편집 권한, 저장 콜백과 버전 관리가 남았습니다. 업무에서 다룬 이 흐름을 Spring Boot와 Next.js로 다시 만들어 본 공개 데모입니다.
 
+## 최근 남긴 글과 생각
+
+<!-- GARDEN-POST-LIST:START -->
+- [글] [AI Agent 시대의 Human Agency](https://www.nextree.io/ai-agent-sidaeyi-human-agency/)
+- [글] [AI로 빨라진 개인, 소화하지 못하는 팀](https://www.nextree.io/airo-bbalrajin-gaein-sohwahaji-moshaneun-tim/)
+<!-- GARDEN-POST-LIST:END -->
+
+<!-- GARDEN-NOTE-LIST:START -->
+- [노트] [Human Agency는 판단을 실제 선택으로 옮기는 힘이다](https://taez224.github.io/obsidian/notes/human-agency%EB%8A%94-%ED%8C%90%EB%8B%A8%EC%9D%84-%EC%8B%A4%EC%A0%9C-%EC%84%A0%ED%83%9D%EC%9C%BC%EB%A1%9C-%EC%98%AE%EA%B8%B0%EB%8A%94-%ED%9E%98%EC%9D%B4%EB%8B%A4/)
+<!-- GARDEN-NOTE-LIST:END -->
+
 ## 사용하는 도구들
 
 <p>
@@ -39,16 +50,5 @@
 </p>
 
 <p>
-  <a href="https://hibernate.org/orm/"><img src="https://cdn.simpleicons.org/hibernate/59666C" alt="JPA / Hibernate" title="JPA / Hibernate" width="28" height="28" /></a> <a href="https://documentation.red-gate.com/flyway"><img src="https://cdn.simpleicons.org/flyway/CC0200" alt="Flyway" title="Flyway" width="28" height="28" /></a> <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="28" height="28" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" width="28" height="28" /></a> <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="28" height="28" /></a> <a href="https://min.io/"><img src="https://cdn.simpleicons.org/minio/C72E49" alt="MinIO" title="MinIO" width="28" height="28" /></a> <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/6B7280" alt="Next.js" title="Next.js" width="28" height="28" /></a> <a href="https://tanstack.com/query/latest"><img src="https://cdn.simpleicons.org/tanstack/FF6B35" alt="TanStack Query" title="TanStack Query" width="28" height="28" /></a> <a href="https://jotai.org/"><img src="https://cdn.candycode.com/jotai/jotai-mascot.png" alt="Jotai" title="Jotai" width="28" height="28" /></a> <a href="https://storybook.js.org/"><img src="https://cdn.simpleicons.org/storybook/FF4785" alt="Storybook" title="Storybook" width="28" height="28" /></a>
+  <a href="https://hibernate.org/orm/"><img src="https://cdn.simpleicons.org/hibernate/59666C" alt="JPA / Hibernate" title="JPA / Hibernate" width="28" height="28" /></a> <a href="https://documentation.red-gate.com/flyway"><img src="https://cdn.simpleicons.org/flyway/CC0200" alt="Flyway" title="Flyway" width="28" height="28" /></a> <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="28" height="28" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" width="28" height="28" /></a> <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="28" height="28" /></a> <a href="https://min.io/"><img src="https://cdn.simpleicons.org/minio/C72E49" alt="MinIO" title="MinIO" width="28" height="28" /></a> <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/6B7280" alt="Next.js" title="Next.js" width="28" height="28" /></a> <a href="https://astro.build/"><img src="https://cdn.simpleicons.org/astro/FF5D01" alt="Astro" title="Astro" width="28" height="28" /></a> <a href="https://tanstack.com/query/latest"><img src="https://cdn.simpleicons.org/tanstack/FF6B35" alt="TanStack Query" title="TanStack Query" width="28" height="28" /></a> <a href="https://jotai.org/"><img src="https://cdn.candycode.com/jotai/jotai-mascot.png" alt="Jotai" title="Jotai" width="28" height="28" /></a> <a href="https://storybook.js.org/"><img src="https://cdn.simpleicons.org/storybook/FF4785" alt="Storybook" title="Storybook" width="28" height="28" /></a>
 </p>
-
-## 최근 남긴 글과 생각
-
-<!-- GARDEN-POST-LIST:START -->
-- [글] [AI Agent 시대의 Human Agency](https://www.nextree.io/ai-agent-sidaeyi-human-agency/)
-- [글] [AI로 빨라진 개인, 소화하지 못하는 팀](https://www.nextree.io/airo-bbalrajin-gaein-sohwahaji-moshaneun-tim/)
-<!-- GARDEN-POST-LIST:END -->
-
-<!-- GARDEN-NOTE-LIST:START -->
-- [노트] [Human Agency는 판단을 실제 선택으로 옮기는 힘이다](https://taez224.github.io/obsidian/notes/human-agency%EB%8A%94-%ED%8C%90%EB%8B%A8%EC%9D%84-%EC%8B%A4%EC%A0%9C-%EC%84%A0%ED%83%9D%EC%9C%BC%EB%A1%9C-%EC%98%AE%EA%B8%B0%EB%8A%94-%ED%9E%98%EC%9D%B4%EB%8B%A4/)
-<!-- GARDEN-NOTE-LIST:END -->
