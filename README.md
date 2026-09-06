@@ -28,11 +28,6 @@
 
 문서 편집기를 붙인 뒤에도 문서 식별, 편집 권한, 저장 콜백과 버전 관리가 남았습니다. 업무에서 다룬 이 흐름을 Spring Boot와 Next.js로 다시 만들어 본 공개 데모입니다.
 
-## 글로 남긴 질문
-
-- [60일간의 AI 에이전틱 워크플로](https://www.nextree.io/ai-eijeontig-weokeupeulro/) · AI와 개발하면서 작업 규칙과 검증 방식을 어떻게 바꿨는가
-- [AI로 빨라진 개인, 소화하지 못하는 팀](https://www.nextree.io/airo-bbalrajin-gaein-sohwahaji-moshaneun-tim/) · 개인이 빠르게 만든 결과를 팀은 어떻게 이해하고 이어받는가
-
 ## 사용하는 도구들
 
 <p>
