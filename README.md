@@ -38,6 +38,7 @@
 
 <!-- GARDEN-NOTE-LIST:START -->
 - [노트] [Human Agency는 판단을 실제 선택으로 옮기는 힘이다](https://taez224.github.io/obsidian/notes/human-agency%EB%8A%94-%ED%8C%90%EB%8B%A8%EC%9D%84-%EC%8B%A4%EC%A0%9C-%EC%84%A0%ED%83%9D%EC%9C%BC%EB%A1%9C-%EC%98%AE%EA%B8%B0%EB%8A%94-%ED%9E%98%EC%9D%B4%EB%8B%A4/)
+
 <!-- GARDEN-NOTE-LIST:END -->
 
 ## 사용하는 도구들
