@@ -37,7 +37,7 @@
 <!-- GARDEN-POST-LIST:END -->
 
 <!-- GARDEN-NOTE-LIST:START -->
-- [노트] [Human Agency는 판단을 실제 선택으로 옮기는 힘이다](https://taez224.github.io/notes/human-agency%EB%8A%94-%ED%8C%90%EB%8B%A8%EC%9D%84-%EC%8B%A4%EC%A0%9C-%EC%84%A0%ED%83%9D%EC%9C%BC%EB%A1%9C-%EC%98%AE%EA%B8%B0%EB%8A%94-%ED%9E%98%EC%9D%B4%EB%8B%A4/)
+- [노트] [AI에 맡길 범위는 그 과정에서 기르려는 역량에 따라 달라진다](https://taez224.github.io/notes/ai%EC%97%90-%EB%A7%A1%EA%B8%B8-%EB%B2%94%EC%9C%84%EB%8A%94-%EA%B7%B8-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EA%B8%B0%EB%A5%B4%EB%A0%A4%EB%8A%94-%EC%97%AD%EB%9F%89%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4/)
 
 <!-- GARDEN-NOTE-LIST:END -->
 
