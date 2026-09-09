@@ -17,7 +17,7 @@ jobs:
       - name: Update Thinking Garden posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://taez224.github.io/obsidian/feeds/posts.xml"
+          feed_list: "https://taez224.github.io/feeds/posts.xml"
           max_post_count: 2
           comment_tag_name: "GARDEN-POST-LIST"
           tag_post_pre_newline: true
@@ -25,7 +25,7 @@ jobs:
       - name: Update Thinking Garden notes
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://taez224.github.io/obsidian/feeds/notes.xml"
+          feed_list: "https://taez224.github.io/feeds/notes.xml"
           max_post_count: 1
           comment_tag_name: "GARDEN-NOTE-LIST"
           tag_post_pre_newline: true
