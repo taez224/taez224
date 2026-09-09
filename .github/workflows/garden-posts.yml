@@ -30,3 +30,11 @@ jobs:
           comment_tag_name: "GARDEN-NOTE-LIST"
           tag_post_pre_newline: true
           template: "- [노트] [$title]($url)$newline"
+      - name: Update Thinking Garden development notes
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://taez224.github.io/feeds/dev.xml"
+          max_post_count: 1
+          comment_tag_name: "GARDEN-DEV-LIST"
+          tag_post_pre_newline: true
+          template: "- [개발 노트] [$title]($url)$newline"
