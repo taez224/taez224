@@ -42,7 +42,7 @@
 <!-- GARDEN-NOTE-LIST:END -->
 
 <!-- GARDEN-DEV-LIST:START -->
-- [개발 노트] [새로고침마다 그래프가 깜빡인다](https://taez224.github.io/dev/%EC%83%88%EB%A1%9C%EA%B3%A0%EC%B9%A8%EB%A7%88%EB%8B%A4-%EA%B7%B8%EB%9E%98%ED%94%84%EA%B0%80-%EA%B9%9C%EB%B9%A1%EC%9D%B8%EB%8B%A4/)
+- [개발 노트] [크롤러와 LLM에게 사이트를 안내하는 방법](https://taez224.github.io/dev/machine-readable-outputs/)
 
 <!-- GARDEN-DEV-LIST:END -->
 
