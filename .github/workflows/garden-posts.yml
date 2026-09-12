@@ -2,7 +2,8 @@ name: Update Thinking Garden entries
 
 on:
   schedule:
-    - cron: "17 0 * * 1"
+    # 07:00 KST. 가든 배포가 예약은 04:00 KST지만 러너 대기로 06:30 무렵에 도니 그 뒤에 피드를 읽는다.
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 permissions:
