@@ -42,7 +42,7 @@
 <!-- GARDEN-NOTE-LIST:END -->
 
 <!-- GARDEN-DEV-LIST:START -->
-- [개발 노트] [크롤러와 LLM에게 사이트를 안내하는 방법](https://taez224.github.io/dev/machine-readable-outputs/)
+- [개발 노트] [Mermaid 12의 변경 사항](https://taez224.github.io/dev/mermaid-12-changes/)
 
 <!-- GARDEN-DEV-LIST:END -->
 
