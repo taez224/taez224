@@ -42,7 +42,7 @@
 <!-- GARDEN-NOTE-LIST:END -->
 
 <!-- GARDEN-DEV-LIST:START -->
-- [개발 노트] [Mermaid 12의 변경 사항](https://taez224.github.io/dev/mermaid-12-changes/)
+- [개발 노트] [TanStack Highlight 적용 &lpar;ft. Java&rpar;](https://taez224.github.io/dev/tanstack-highlight-java/)
 
 <!-- GARDEN-DEV-LIST:END -->
 
