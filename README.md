@@ -42,7 +42,7 @@
 <!-- GARDEN-NOTE-LIST:END -->
 
 <!-- GARDEN-DEV-LIST:START -->
-- [개발 노트] [TanStack Highlight 적용 &lpar;ft. Java&rpar;](https://taez224.github.io/dev/tanstack-highlight-java/)
+- [개발 노트] [Jev와 System One 모델](https://taez224.github.io/dev/jev-system-one/)
 
 <!-- GARDEN-DEV-LIST:END -->
 
