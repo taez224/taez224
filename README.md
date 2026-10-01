@@ -37,7 +37,7 @@
 <!-- GARDEN-POST-LIST:END -->
 
 <!-- GARDEN-NOTE-LIST:START -->
-- [노트] [AI에 맡길 범위는 그 과정에서 기르려는 역량에 따라 달라진다](https://taez224.github.io/notes/delegate-by-skill-to-build/)
+- [노트] [verification이 빨라져도 validation을 대신하지 않는다](https://taez224.github.io/notes/verification-not-validation/)
 
 <!-- GARDEN-NOTE-LIST:END -->
 
