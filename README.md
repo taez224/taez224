@@ -42,7 +42,7 @@
 <!-- GARDEN-NOTE-LIST:END -->
 
 <!-- GARDEN-DEV-LIST:START -->
-- [개발 노트] [Jev와 System One 모델](https://taez224.github.io/dev/jev-system-one/)
+- [개발 노트] [Jev로 GitHub 이슈 분류하기](https://taez224.github.io/dev/jev-issue-triage/)
 
 <!-- GARDEN-DEV-LIST:END -->
 
