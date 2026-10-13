@@ -37,7 +37,7 @@
 <!-- GARDEN-POST-LIST:END -->
 
 <!-- GARDEN-NOTE-LIST:START -->
-- [노트] [verification이 빨라져도 validation을 대신하지 않는다](https://taez224.github.io/notes/verification-not-validation/)
+- [노트] [운영자를 위한 분류가 사용자의 선택 부담을 늘릴 수 있다](https://taez224.github.io/notes/operator-classification-burden/)
 
 <!-- GARDEN-NOTE-LIST:END -->
 
