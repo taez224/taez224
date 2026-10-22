@@ -31,8 +31,8 @@
 ## 최근 남긴 글과 생각
 
 <!-- GARDEN-POST-LIST:START -->
+- [글] [Spring Boot와 JPA로 시작하는 데이터베이스 멀티테넌시](https://www.nextree.io/spring-bootwa-jparo-sijaghaneun-deiteobeiseu-meoltiteneonsi/)
 - [글] [AI Agent 시대의 Human Agency](https://www.nextree.io/ai-agent-sidaeyi-human-agency/)
-- [글] [AI로 빨라진 개인, 소화하지 못하는 팀](https://www.nextree.io/airo-bbalrajin-gaein-sohwahaji-moshaneun-tim/)
 
 <!-- GARDEN-POST-LIST:END -->
 
