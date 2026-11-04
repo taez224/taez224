@@ -37,7 +37,7 @@
 <!-- GARDEN-POST-LIST:END -->
 
 <!-- GARDEN-NOTE-LIST:START -->
-- [노트] [운영자를 위한 분류가 사용자의 선택 부담을 늘릴 수 있다](https://taez224.github.io/notes/operator-classification-burden/)
+- [노트] [AI에게 일을 잘 맡기려면 무엇을 얼마나 알아야 할까](https://taez224.github.io/notes/learn-to-delegate-to-ai/)
 
 <!-- GARDEN-NOTE-LIST:END -->
 
