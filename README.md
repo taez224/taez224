@@ -37,7 +37,7 @@
 <!-- GARDEN-POST-LIST:END -->
 
 <!-- GARDEN-NOTE-LIST:START -->
-- [노트] [AI에게 일을 잘 맡기려면 무엇을 얼마나 알아야 할까](https://taez224.github.io/notes/learn-to-delegate-to-ai/)
+- [노트] [AI의 답을 따라가기 버거운 이유는 무엇일까](https://taez224.github.io/notes/why-ai-answers-feel-overwhelming/)
 
 <!-- GARDEN-NOTE-LIST:END -->
 
